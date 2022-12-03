@@ -1,4 +1,4 @@
-# Better Lectio <img style="float: right;" src="https://avatars.githubusercontent.com/u/119731070?s=40&v=4">
+# Better Lectio <img style="float: right;" src="https://raw.githubusercontent.com/BetterLectio/betterLectio/main/static/favicon.png" width="40">
 ## Hvad er Better Lectio?
 Better Lectio er en webapp, der gør det nemmere at bruge Lectio. Better Lectio tager kontakt til lectio API'en som er srevet af os og er tilgængelig for alle.
 
